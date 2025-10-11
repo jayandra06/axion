@@ -296,7 +296,7 @@ export default function CataloguePage() {
                   {filteredProducts.length === 0 ? (
                     <tr>
                       <td colSpan={6} className="px-6 py-4 text-center text-gray-500">
-                        No products in catalogue. Click "Add Product" to get started.
+                        No products in catalogue. Click &quot;Add Product&quot; to get started.
                       </td>
                     </tr>
                   ) : (

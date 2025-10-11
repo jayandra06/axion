@@ -259,7 +259,7 @@ export default function ProductsPage() {
                         <h2 className="text-4xl font-bold text-gray-900 flex items-center">
                           🔥 Special Offers
                         </h2>
-                        <p className="text-red-700 mt-2 text-lg font-medium">Grab them before they're gone!</p>
+                        <p className="text-red-700 mt-2 text-lg font-medium">Grab them before they&apos;re gone!</p>
                       </div>
                     </div>
                     {/* Horizontal scrollable layout for offers */}
